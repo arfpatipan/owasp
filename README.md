@@ -7,13 +7,13 @@
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m5.jpg)
 # 
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m6.jpg)
-## ระบุข้อมูลตามที่ project นั้น ๆ ใช้งานจริง
+#
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m7.jpg)
-# 
+## เลือกข้อมูลตามที่ project นั้น ๆ ใช้งานจริง (ตัวอย่างที่นำมาใช้ 'php' 'window')
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m8.jpg)
-# coppy code นี้ไว้เพื่อใช้งานต่อ
+# copy code นี้ไว้เพื่อใช้งานต่อ
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m9.jpg)
-## ทำการตั้งค่า environment variables 
+## ทำการตั้งค่า environment variables (ชี้ที่ sonar-scanner-cli-4.7.0.2747-windows/bin)
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m3.jpg)
 ## ทำการเตรียม project ที่ต้องการสแกนไว้ (ตัวอย่างเป็นการไปดึงจากserver)
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m1.jpg)
