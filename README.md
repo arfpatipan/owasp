@@ -7,3 +7,19 @@
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m5.jpg)
 # 
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m6.jpg)
+## ระบุข้อมูลตามที่ project นั้น ๆ ใช้งานจริง
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m7.jpg)
+# 
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m8.jpg)
+# coppy code นี้ไว้เพื่อใช้งานต่อ
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m9.jpg)
+## ทำการตั้งค่า environment variables 
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m3.jpg)
+## ทำการเตรียม project ที่ต้องการสแกนไว้ (ตัวอย่างเป็นการไปดึงจากserver)
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m1.jpg)
+# 
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m2.jpg)
+# เข้าไปที่ project ที่เตรียมไว้ จากนั้นเรียกใช้งาน cmd ตามภาพ
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m10.jpg)
+## จากนั้นนำโค้ดที่เตรียมไว้จากหน้าเว็ปมาใส่และ run
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m11.jpg)
