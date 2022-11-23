@@ -15,7 +15,7 @@
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m9.jpg)
 ## ทำการตั้งค่า environment variables (ชี้ที่ sonar-scanner-cli-4.7.0.2747-windows/bin)
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m3.jpg)
-## ทำการเตรียม project ที่ต้องการสแกนไว้ (ตัวอย่างเป็นการไปดึงจากserver)
+## ทำการเตรียม project ที่ต้องการสแกนไว้ (ตัวอย่างเป็นการไปดึง project 'cisf','eservice' จาก server)
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m1.jpg)
 # 
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m2.jpg)
