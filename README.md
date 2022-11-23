@@ -24,4 +24,5 @@
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m14.jpg)
 ## จากนั้นนำโค้ดที่เตรียมไว้จากหน้าเว็ปมาใส่และ run
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m11.jpg)
-## ดูผลผ่านหน้าเว็บ 	[title](https://sonarq.takeitsolution.com/projects)
+## ดูผลผ่านหน้าเว็บ 	[sonarq](https://sonarq.takeitsolution.com/projects)
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m13.jpg)
