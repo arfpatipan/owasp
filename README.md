@@ -20,6 +20,7 @@
 # 
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m2.jpg)
 # เข้าไปที่ project ที่เตรียมไว้ จากนั้นเรียกใช้งาน cmd ตามภาพ
-![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m10.jpg)
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m12.jpg)
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m14.jpg)
 ## จากนั้นนำโค้ดที่เตรียมไว้จากหน้าเว็ปมาใส่และ run
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m11.jpg)
