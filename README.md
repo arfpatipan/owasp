@@ -26,3 +26,6 @@
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m11.jpg)
 ## ดูผลผ่านหน้าเว็บ 	[sonarq](https://sonarq.takeitsolution.com/projects)
 ![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m13.jpg)
+# 
+# dowload sonar-scanner-cli-4.7.0.2747-windows ได้จาก (ตัวอย่างตามภาพด้านล่าง)
+![Editor preferences pane](https://github.com/arfpatipan/owasp/blob/main/m15.jpg)
